@@ -1,0 +1,38 @@
+* body{
+    margin: 0px;
+    padding: 0px;
+}
+.estiliza{
+    width: auto;
+    height: auto;
+    background-color: darkseagreen;
+    color: white;
+    margin: auto;
+}
+.d-block{
+    height: 400px;
+}
+.centraliza{
+    margin-bottom: 100px;
+}
+@media(max-width:768px){
+    .estiliza{
+        width: auto;
+        height: auto;
+        background-color: darkseagreen;
+        color: white;
+        margin: auto;
+    }
+
+}
+@media(max-width:545px){
+    .estiliza{
+        width: auto;
+        height: auto;
+        background-color: darkseagreen;
+        color: white;
+        margin: auto;
+    }
+    
+}
+
