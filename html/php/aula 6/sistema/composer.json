@@ -1,0 +1,12 @@
+{
+    "name": "aluno/sistema",
+    "autoload": {
+        "classmap": ["Controller"]
+    },
+    "authors": [
+        {
+            "name": "Aula 6 Alex"
+        }
+    ],
+    "require": {}
+}
